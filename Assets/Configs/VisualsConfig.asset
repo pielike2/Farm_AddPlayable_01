@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c43df597dc430eafdea1138a75eb0e, type: 3}
+  m_Name: VisualsConfig
+  m_EditorClassIdentifier: 
+  defaultDigitSprites:
+  - {fileID: 21300000, guid: 4a7961319cc9ad941a005048f2fdc679, type: 3}
+  - {fileID: 21300000, guid: b43811c683a704b4395eb0e10b431370, type: 3}
+  - {fileID: 21300000, guid: dbf2c8de8edbdc34faa756b8a64eb748, type: 3}
+  - {fileID: 21300000, guid: d107fe098ba494047ac34dc2428c55f9, type: 3}
+  - {fileID: 21300000, guid: 928696528960ba544968747a5b79f9f5, type: 3}
+  - {fileID: 21300000, guid: 1dabdc9c3e7379844a9eb5627337b7bf, type: 3}
+  - {fileID: 21300000, guid: 75c7d0ff3178b514796c6898f5712748, type: 3}
+  - {fileID: 21300000, guid: 639de8755494f7d4fa948972a4a0a9c7, type: 3}
+  - {fileID: 21300000, guid: f0f581df89fbb4c4489b69c87c044b76, type: 3}
+  - {fileID: 21300000, guid: 422213e0600975740892e3b3e6833083, type: 3}
+  soundPlayRadiusInner: 7
+  soundPlayRadiusOuter: 12
+  testShell1:
+    clip: {fileID: 8300000, guid: 8f296d1ee9eca6f41a83851c82a694d0, type: 3}
+    volume: 0.35
+    pitch: 1

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity projects\\playable_test_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|c:\\unity projects\\playable_test_02\\assets\\scripts\\utility\\spritewidget\\imagenumberwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\spritewidget\\imagenumberwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|c:\\unity projects\\playable_test_02\\assets\\scripts\\playable\\animations\\specificrigs\\plantrig_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playable\\animations\\specificrigs\\plantrig_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|c:\\unity projects\\playable_test_02\\assets\\scripts\\playable\\gameplay\\placements\\placementhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playable\\gameplay\\placements\\placementhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|c:\\unity projects\\playable_test_02\\assets\\scripts\\playable\\gameplay\\placements\\unloadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playable\\gameplay\\placements\\unloadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|c:\\unity projects\\playable_test_02\\assets\\scripts\\playable\\gameplay\\npcs\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D8DC1-FCC3-0446-59E1-FC4B439F97E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playable\\gameplay\\npcs\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageNumberWidget.cs",
+              "DocumentMoniker": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Utility\\SpriteWidget\\ImageNumberWidget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\SpriteWidget\\ImageNumberWidget.cs",
+              "ToolTip": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Utility\\SpriteWidget\\ImageNumberWidget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\SpriteWidget\\ImageNumberWidget.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:10:13.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantRig_V1.cs",
+              "DocumentMoniker": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Animations\\SpecificRigs\\PlantRig_V1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playable\\Animations\\SpecificRigs\\PlantRig_V1.cs",
+              "ToolTip": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Animations\\SpecificRigs\\PlantRig_V1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playable\\Animations\\SpecificRigs\\PlantRig_V1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:31:56.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlacementHighlight.cs",
+              "DocumentMoniker": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Gameplay\\Placements\\PlacementHighlight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playable\\Gameplay\\Placements\\PlacementHighlight.cs",
+              "ToolTip": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Gameplay\\Placements\\PlacementHighlight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playable\\Gameplay\\Placements\\PlacementHighlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:31:06.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnloadZone.cs",
+              "DocumentMoniker": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Gameplay\\Placements\\UnloadZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playable\\Gameplay\\Placements\\UnloadZone.cs",
+              "ToolTip": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Gameplay\\Placements\\UnloadZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playable\\Gameplay\\Placements\\UnloadZone.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:07:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Gameplay\\NPCs\\QueueController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playable\\Gameplay\\NPCs\\QueueController.cs",
+              "ToolTip": "C:\\Unity projects\\playable_test_02\\Assets\\Scripts\\Playable\\Gameplay\\NPCs\\QueueController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playable\\Gameplay\\NPCs\\QueueController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAvwJ4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:56:48.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
